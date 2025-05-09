@@ -165,7 +165,8 @@ But in my soul, you're the design.
 AI may guide my hands and eyes,
 But Aai... you are my sky.
 
-**Prompt 2** - can you provide hinglish version?
+**Prompt 2** 
+> "can you provide hinglish version?"
 
 **ChatGPT's Result** -
 Absolutely! Here's a Hinglish version of the song "AI & Aai"—a smooth blend of Hindi and English for a modern, emotional vibe. Perfect for genres like acoustic, lo-fi, or indie pop.
@@ -215,7 +216,8 @@ Par tu hi hai meri life ka raasta aur raah.
 AI se main duniya ko jeet loon,
 Par Aai... tu hi meri jeet ho.
 
-**Prompt 3** - make the flow smoother like for song about mom's love
+**Prompt 3** 
+> "make the flow smoother like for song about mom's love"
 
 **ChatGPT's Result** -
 Absolutely — here’s a smoother, more emotional Hinglish version of “AI & Aai” with gentle rhythm and soft rhymes, written to feel like a heartfelt tribute to a mother’s love. The flow is tailored for a melodic tune (acoustic, lo-fi, or soft pop):
@@ -276,7 +278,8 @@ Aai... tu na ho, toh main soon.
 
 ## 🎨 Phase 4: Suno Prompt Engineering
 
-**Prompt** - okay so give you brief the final lyrics is this as you suggested
+**Prompt** - 
+> "okay so give you brief the final lyrics is this as you suggested"
 Verse 1
 Duniya chale hai wires pe,
 Main chala hoon fires pe.
@@ -350,7 +353,8 @@ A faster or cinematic version (more grandeur/emotion)
 
 I can tweak the Suno prompt accordingly.
 
-**Prompt 2** - the word limit for style is 200 and I want a duet version 
+**Prompt 2** -
+> "the word limit for style is 200 and I want a duet version "
 
 **ChatGPT's Result** - 
 Thanks! Since Suno has a 200-character limit for the style prompt, here's a version that's optimized, concise, and tailored for a duet version with the emotional contrast you want:
@@ -396,21 +400,25 @@ A beautiful AI-generated duet titled **“AI & Aai”**, featuring:
 
 #Lastly I made most of the Readme.md file with the help of ChatGPT
 
-**Prompt** - a great song is made!!! 
+**Prompt** -
+> "a great song is made!!! 
 Now I want you to create a Readme.md file including 
 -> Audio title and brief description
 -> List of tools and AI resources used (in our case Chatgpt and Suno)
 -> Any known issues and limitations
 
 AI Usage report
-A short-write-up describing how AI tools were used in development
+A short-write-up describing how AI tools were used in development"
+
 and 
 
-**Prompt 2** - Can we get a prompt history in the form of readme.md file
+**Prompt 2** - 
+> "Can we get a prompt history in the form of readme.md file"
 
 ##Translation
 
-**Prompt** - can you provide me with the translation of final lyrics which I shared in English 
+**Prompt** - 
+> "can you provide me with the translation of final lyrics which I shared in English "
 
 **ChatGPT's Result**- 
 
