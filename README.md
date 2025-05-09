@@ -426,6 +426,7 @@ and
 Absolutely! Here's the English translation of your final “AI & Aai” lyrics while keeping the emotional tone and poetic flow intact:
 
 🎶 AI & Aai – English Translation
+
 Verse 1
 The world runs on wires,
 But I walk through fire.
