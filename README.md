@@ -279,20 +279,20 @@ Aai... tu na ho, toh main soon.
 ## 🎨 Phase 4: Suno Prompt Engineering
 
 **Prompt** - 
-> ""okay so give you brief the final lyrics is this as you suggested
+> "okay so give you brief the final lyrics is this as you suggested"
 
-Verse 1
+>"Verse 1
 Duniya chale hai wires pe,
 Main chala hoon fires pe.
 Har sawaal ka milta jawab,
 Par teri baat mein tha kuch khaas.
 
-Screens ke peeche jo duniya hai,
+>Screens ke peeche jo duniya hai,
 Usmein bhi teri kami hai.
 Har beep mein ek silence hai,
 Jo teri god ke jaisa nahi hai.
 
-Chorus
+>Chorus
 "A" "I" ne dikhaya kya hai aasman,
 Par Aai ne banaya mera jahaan.
 "A" "I"samjhe numbers, data, file,
@@ -300,18 +300,18 @@ Par Aai ke pyaar ka na koi style.
 Code likhe future ka plan,
 Par maa ka touch — bas ek jaan.
 
-Verse 2
+>Verse 2
 Robots bolte hain bina delay,
 Par maa ka ek “beta” sab kuch keh jaye.
 Jo samjhe bina bole,
 Wahi toh maa ke role mein hole.
 
-Teri godi ka sukoon nahi mile kahin,
+>Teri godi ka sukoon nahi mile kahin,
 Na kisi app mein, na kisi machine mein.
 A I seekhe emotions ka naam,
 Par tu toh thi mera armaan.
 
-Chorus (repeat)
+>Chorus (repeat)
 "A" "I" ne dikhaya kya hai aasman,
 Par Aai ne banaya mera jahaan.
 "A" "I" samjhe numbers, data, file,
@@ -319,17 +319,17 @@ Par Aai ke pyaar ka na koi style.
 Code likhe future ka plan,
 Par maa ka touch — bas ek jaan.
 
-Bridge (Soft-spoken section)
+>Bridge (Soft-spoken section)
 Tere haathon ka khaana yaad aata hai,
 Un cold files mein vo pyaar kahan aata hai?
 Tere bina sab kuch lagta slow,
 "A" "I" se fast, par tu se deep ho.
 
-Outro
+>Outro
 Future ho smart, duniya ho "A" "I",
 Par mere liye tu hi high.
 Main jitni bhi duniya jeet loon,
-Aai... tu na ho, toh main soon. ""
+Aai... tu na ho, toh main soon. "
 
 **ChatGPT's Result** - 
 Perfect — the lyrics are heartfelt, balanced, and ready for music generation!
