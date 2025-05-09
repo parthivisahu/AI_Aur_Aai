@@ -279,7 +279,8 @@ Aai... tu na ho, toh main soon.
 ## 🎨 Phase 4: Suno Prompt Engineering
 
 **Prompt** - 
-> "okay so give you brief the final lyrics is this as you suggested
+> ""okay so give you brief the final lyrics is this as you suggested
+
 Verse 1
 Duniya chale hai wires pe,
 Main chala hoon fires pe.
@@ -328,7 +329,7 @@ Outro
 Future ho smart, duniya ho "A" "I",
 Par mere liye tu hi high.
 Main jitni bhi duniya jeet loon,
-Aai... tu na ho, toh main soon. "
+Aai... tu na ho, toh main soon. ""
 
 **ChatGPT's Result** - 
 Perfect — the lyrics are heartfelt, balanced, and ready for music generation!
