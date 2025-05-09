@@ -408,7 +408,7 @@ Now I want you to create a Readme.md file including
 -> List of tools and AI resources used (in our case Chatgpt and Suno)
 -> Any known issues and limitations
 
-AI Usage report
+>AI Usage report
 A short-write-up describing how AI tools were used in development"
 
 and 
